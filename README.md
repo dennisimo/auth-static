@@ -90,7 +90,7 @@ web: node index.js
 
 #### 5. Set up the config variables in the Heroku Dashboard
 
-Visit <https://dashboard.herokuapp.com/>, navigate to the settings page for your app and edit the config variables. We need to create pairs for `NODE_ENV`, `USERNAME`, and `PASSWORD`. `NODE_ENV` needs a value of `productio` for everything to work, whereas the the other two can be whatever you want.
+Visit <https://dashboard.herokuapp.com/>, navigate to the settings page for your app and edit the config variables. We need to create pairs for `NODE_ENV`, `USERNAME`, and `PASSWORD`. `NODE_ENV` needs a value of `production` for everything to work, whereas the the other two can be whatever you want.
 
 #### 6. Commit your changes
 
